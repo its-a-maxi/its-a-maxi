@@ -3,8 +3,7 @@
 <br />
 <div align="center">
   <img src="banner.png" />
-  <h1>Hello! 🐇</h1>
-  <p>I'm Maxi.</p>
+  <h1>Hello! I'm Maxi. 🐇</h1>
   <p>Currently studying as a member of <a href="https://www.42madrid.com/en/">Madrid 42</a>.</p>
 </div>
 <!--
