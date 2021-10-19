@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <img src="banner.png" />
-  <h1>Hello!</h1>
+  <h1>Hello! 🐇</h1>
 </div>
 
 ### Hi there 👋
