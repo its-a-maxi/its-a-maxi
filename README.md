@@ -5,7 +5,7 @@
   <img src="banner.png" />
   <h1>Hello! I'm Maxi. 🐇</h1>
   <p>Currently studying as a member of <a href="https://www.42madrid.com/en/">Madrid 42</a>.</p>
-  <p>Also doing an internship at <a href="https://reliefapplications.org/">Relief Applications</a>.</p>
+  <p>Also working at <a href="https://reliefapplications.org/">Relief Applications</a> as a frontend developer and tech lead.</p>
 </div>
 <!--
 **its-a-maxi/its-a-maxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
